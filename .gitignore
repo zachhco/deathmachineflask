@@ -1,0 +1,17 @@
+# Ignore the .env file containing sensitive environment variables
+.env
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other OS-specific files
+.DS_Store
+Thumbs.db
